@@ -1,0 +1,7 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+logs/
+studybuddy/
+.env
+LLMOPS_3.egg-info/
+results/
