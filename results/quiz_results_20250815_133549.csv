@@ -1,6 +1,0 @@
-question_number,question,question_type,user_answer,correct_answer,is_correct,options
-1,Which Indian cricketer has the most Test centuries?,MCQ,Sachin Tendulkar,Sachin Tendulkar,True,"['Sachin Tendulkar', 'Virender Sehwag', 'Rahul Dravid', 'VVS Laxman']"
-2,"In cricket, what is the name of the umpire's signal to indicate a no-ball has been bowled?",MCQ,Umpire's signal for a wide,Umpire's signal for a no-ball,False,"[""Umpire's signal for a wide"", ""Umpire's signal for a no-ball"", ""Umpire's signal for a dead ball"", ""Umpire's signal for a run-out""]"
-3,What is the primary function of a bowler's 'over' in the sport of cricket?,MCQ,To hit 4 runs with a single shot,To bowl 6 consecutive deliveries,False,"['To hit 4 runs with a single shot', 'To score 6 runs in a single play', 'To bowl 6 consecutive deliveries', 'To bat for 6 consecutive balls']"
-4,"In the game of cricket, what is the term for a batsman dismissed after their wicketkeeper or a fielder catches a ball hit by the batsman?",MCQ,LBW,Caught,False,"['LBW', 'Run out', 'Caught', 'Timed out']"
-5,"In cricket, which fielder is responsible for standing behind the wicket-keeper and catching the ball if it is hit beyond the wicket-keeper's reach?",MCQ,Slip fielder,Slip fielder,True,"['Slip fielder', 'Gully fielder', 'Point fielder', 'Fine leg']"
